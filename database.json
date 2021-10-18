@@ -28,7 +28,15 @@
       "country": "India"
     },
     {
+    "name": "Nujoom Rahman",
 
+      "phone": "8078118901",
+
+      "blood_group": "A+ve",
+
+      "address": "Manelil (H), Vayalkara, kunnukara P.O",
+    },
+    {
       "name": "Ayush PS",
 
       "phone": "9895639966",
@@ -36,13 +44,13 @@
       "blood_group": "O+ve",
 
       "address": "Thundiparambil(H) ,Chiraikkakam,Varapuzha P O",
-
       "district": "Ernakulam",
 
       "state": "Kerala",
 
       "country": "India"
+  }
+ ]
 
-    }
-  ]
+
 }
