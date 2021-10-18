@@ -10,6 +10,15 @@
       "country": "India"
     },
     {
+      "name":"Rizwan K Rahim",
+      "phone":"99474 05812",
+      "blood_group":"B+",
+      "address":"Kudilingal(H), Ponjassery P.O, perumbavoor",
+      "district":"Ernakulam",
+      "state":"kerala",
+      "country":"India"
+    },
+    {
       "name": "Farzana Khareem",
       "phone": "8078127490",
       "blood_group": "O+",
@@ -69,6 +78,4 @@
       "country": "India"
   }
  ]
-
-
 }
