@@ -10,13 +10,13 @@
       "country": "India"
     },
     {
-      "name":"Rizwan K Rahim",
-      "phone":"99474 05812",
-      "blood_group":"B+",
-      "address":"Kudilingal(H), Ponjassery P.O, perumbavoor",
-      "district":"Ernakulam",
-      "state":"kerala",
-      "country":"India"
+      "name": "Rizwan K Rahim",
+      "phone": "99474 05812",
+      "blood_group": "B+",
+      "address": "Kudilingal(H), Ponjassery P.O, perumbavoor",
+      "district": "Ernakulam",
+      "state": "kerala",
+      "country": "India"
     },
     {
       "name": "Farzana Khareem",
@@ -55,27 +55,19 @@
       "country": "India"
     },
     {
-    "name": "Nujoom Rahman",
-
+      "name": "Nujoom Rahman",
       "phone": "8078118901",
-
       "blood_group": "A+ve",
-
-      "address": "Manelil (H), Vayalkara, kunnukara P.O",
+      "address": "Manelil (H), Vayalkara, kunnukara P.O"
     },
     {
       "name": "Ayush PS",
-
       "phone": "9895639966",
-
       "blood_group": "O+ve",
-
       "address": "Thundiparambil(H) ,Chiraikkakam,Varapuzha P O",
       "district": "Ernakulam",
-
       "state": "Kerala",
-
       "country": "India"
-  }
- ]
+    }
+  ]
 }
